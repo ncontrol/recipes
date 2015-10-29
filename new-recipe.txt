@@ -2,5 +2,6 @@ butter
 bacon
 beef
 cabbage
+stir in pan
 
 yum...
